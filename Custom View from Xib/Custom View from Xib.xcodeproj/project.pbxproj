@@ -177,6 +177,7 @@
 		BDDBA3011A34CD1C000A867E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "Paul Solt";
 				TargetAttributes = {
@@ -435,6 +436,7 @@
 				BDDBA32A1A34CD1C000A867E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BDDBA32B1A34CD1C000A867E /* Build configuration list for PBXNativeTarget "Custom View from XibTests" */ = {
 			isa = XCConfigurationList;
@@ -443,6 +445,7 @@
 				BDDBA32D1A34CD1C000A867E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
